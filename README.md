@@ -35,3 +35,9 @@
    `http://158.160.139.34/zabbix`
    Следуем инструкции и устанавливаем.
    ![zabbix login](img/img1.png)
+
+
+### Задание 2
+   1. ![zabbix login](img/img2.png)
+   2. ![zabbix login](img/img3.png)
+   3. ![zabbix login](img/img4.png)
